@@ -31,6 +31,7 @@ class App extends Component {
       'pages/index/index',
       'pages/login/hooks',
       'pages/login/index',
+      'pages/play/hooks',
       'pages/play/index',
       'pages/mv/hooks',
       'pages/mv/index',
