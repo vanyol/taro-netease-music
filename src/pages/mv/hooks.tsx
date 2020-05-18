@@ -2,7 +2,7 @@ import { View } from '@tarojs/components'
 import { AtTabs, AtTabsPane } from 'taro-ui'
 import Footer from '../../components/Footer'
 import './index.scss'
-import Recommend from "./recommend/Recommend"
+import Recommend from "./recommend/hooks"
 import { useState } from '@tarojs/taro'
 
 export default function MV() {
