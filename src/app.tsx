@@ -27,6 +27,7 @@ class App extends Component {
   componentDidCatchError() { }
   config: Config = {
     pages: [
+      'pages/index/hooks',
       'pages/index/index',
       'pages/login/index',
       'pages/play/index',
