@@ -34,6 +34,7 @@ class App extends Component {
       'pages/play/index',
       'pages/mv/hooks',
       'pages/mv/index',
+      'pages/dailySongs/hooks',
       'pages/dailySongs/index'
     ],
     window: {
